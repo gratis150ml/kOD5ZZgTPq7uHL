@@ -1,0 +1,37 @@
+body {
+  color: rgb(255, 255, 255);
+}
+.spinner-border {
+  margin-top: 420px;
+}
+.profile {
+  padding: 10px;
+  font-family: "Courier New", Courier, monospace;
+}
+
+.profile input:focus {
+  width: 400px;
+  background-color: #1b1e21;
+  border: 1px solid grey;
+  color: white;
+}
+
+.profile input {
+  width: 400px;
+  background-color: #1b1e21;
+  border: 1px solid grey;
+  color: white;
+}
+.div2 {
+  border: 0.5px solid rgb(132, 127, 204);
+  border-radius: 6px;
+  padding: 7px;
+  width: 420px;
+}
+
+.div3 {
+  border: 0.5px solid rgb(168, 106, 142);
+  border-radius: 6px;
+  padding: 7px;
+  width: 420px;
+}

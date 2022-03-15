@@ -1,0 +1,20 @@
+.main input {
+  width: 400px;
+  background-color: #1b1e21;
+  border: 1px solid grey;
+  color: white;
+}
+.main input:focus {
+  width: 400px;
+  background-color: #1b1e21;
+  border: 1px solid grey;
+  color: white;
+}
+.main {
+  padding: 10px;
+  font-family: "Courier New", Courier, monospace;
+}
+
+.main p {
+  color: rgb(173, 48, 48);
+}
